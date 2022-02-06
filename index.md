@@ -12,6 +12,11 @@ See my projects in detail:
 ![image](https://user-images.githubusercontent.com/22537687/152666033-a97da2d3-b008-4cf4-8493-92fbe2f296d0.png)
 
 
+### Team Members:
+Jamie Lim, Tina Fung, Yvette Zhang, Thomas Tam
+
+
+
 ### Introduction
 The COVID-19 pandemic has reshaped many facets of Americans’ lives, and coupled
 with the prevalence of remote-work enabling technologies, it has driven workers in
