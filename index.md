@@ -4,7 +4,6 @@
 
 See my projects in detail:
 [This Project's Repo](https://github.com/skyrockets-21/Livable-Cities) \
-[Back to my GitHub Homepage](https://skyrockets-21.github.io/) \
 [Go to my LinkedIn Page](https://www.linkedin.com/in/thomasyctam/) 
 
 ---
@@ -35,7 +34,7 @@ https://github.com/skyrockets-21/Livable-Cities/blob/main/poo_py%20final%20visua
 
 ### Python Libraries Used
 |#| Library Name| Usage|
-|--|--|--|
+|---|---|---|
 |1 |Pandas |Data manipulation
 |2 |Numpy |Data manipulation
 |3 |Beautiful Soup |Pulling data from scraping static web pages
@@ -48,7 +47,7 @@ https://github.com/skyrockets-21/Livable-Cities/blob/main/poo_py%20final%20visua
 
 ### Data Sources Used
 |Category |Attribute	|Source 	|URL|
-|--|--|--|--|
+|---|---|---|---|
 |City	|Cities rank by population	|.xlsx 	|https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRNK.xlsx 
 |City|State Abbreviation 	|.xls	|https://www3.epa.gov/ttnairs1/airsaqsORIG/manuals/State%20and%20County%20Codes.xls 
 |City	|Coordinates	|API	|https://developer.mapquest.com/documentation/open/ 
