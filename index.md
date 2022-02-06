@@ -1,4 +1,4 @@
-## Suggesting the Most Livable City in the US for you
+## US Livable Cities Recommendation
 
 ---
 
