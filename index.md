@@ -30,6 +30,9 @@ and weightings for all six dimensions. The application produces a bubble map, a 
 radar plot of cities with their livability scores and ranks for city comparison, thereby facilitating
 users’ decision-making.
 
+### Jupyter Notebook
+https://github.com/skyrockets-21/Livable-Cities/blob/main/poo_py%20final%20visualization.ipynb 
+
 ### Python Libraries Used
 |#| Library Name| Usage|
 |--|--|--|
