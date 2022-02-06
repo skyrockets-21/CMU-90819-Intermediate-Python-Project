@@ -2,7 +2,7 @@
 
 ---
 
-See projects in detail:
+See my projects in detail:
 [This Project's Repo](https://github.com/skyrockets-21/Livable-Cities) \
 [Back to my GitHub Homepage](https://skyrockets-21.github.io/) \
 [Go to my LinkedIn Page](https://www.linkedin.com/in/thomasyctam/) 
@@ -39,7 +39,7 @@ users’ decision-making.
 
 
 ### Data Sources Used
-|Category |Attribute	|Source 	|URL
+|Category |Attribute	|Source 	|URL|
 |--|--|--|--|
 |City	|Cities rank by population	|.xlsx 	|https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRNK.xlsx 
 |City|State Abbreviation 	|.xls	|https://www3.epa.gov/ttnairs1/airsaqsORIG/manuals/State%20and%20County%20Codes.xls 
