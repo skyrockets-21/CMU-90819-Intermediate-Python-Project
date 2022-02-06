@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Suggesting the Most Livable City in the US for you
 
-You can use the [editor on GitHub](https://github.com/skyrockets-21/Livable-Cities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See projects in detail:
+[This Project's Repo](https://github.com/skyrockets-21/Livable-Cities) \
+[Back to my GitHub Homepage](https://skyrockets-21.github.io/) 
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/22537687/152666033-a97da2d3-b008-4cf4-8493-92fbe2f296d0.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Introduction
+The COVID-19 pandemic has reshaped many facets of Americans’ lives, and coupled
+with the prevalence of remote-work enabling technologies, it has driven workers in
+certain industries or positions to choose to relocate.
 
-- Bulleted
-- List
+To assist users in their relocation decision-making process, the team has created an application
+that manipulates and visualizes data regarding the “livability” of major cities in the U.S. The
+‘Livability’ is calculated based on user-weighted scores of six dimensions: Environment, Job,
+Education, Leisure & Accessibility, Safety, and Affordability. Users can select their current city
+and weightings for all six dimensions. The application produces a bubble map, a table, and a
+radar plot of cities with their livability scores and ranks for city comparison, thereby facilitating
+users’ decision-making.
 
-1. Numbered
-2. List
+### Python Libraries Used
+|#| Library Name| Usage|
+|--|--|--|
+|1 |Pandas |Data manipulation
+|2 |Numpy |Data manipulation
+|3 |Beautiful Soup |Pulling data from scraping static web pages
+|4 |folium |Visualizing data on the map
+|5 |Plotly |Visualizing data
+|6 |ipywidgets |User interface’s interactive components
+|7 |Request |an HTTP library for page download
+|8 |Json |API
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Data Sources Used
+|Category |Attribute	|Source 	|URL
+|--|--|--|--|
+|City	|Cities rank by population	|.xlsx 	|https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRNK.xlsx 
+|City|State Abbreviation 	|.xls	|https://www3.epa.gov/ttnairs1/airsaqsORIG/manuals/State%20and%20County%20Codes.xls 
+|City	|Coordinates	|API	|https://developer.mapquest.com/documentation/open/ 
+|City	|Zip Code	|CSV	|https://simplemaps.com/data/us-zips
+|Environment| Air quality index - PM2.5	|API	|https://docs.airnowapi.org/
+|Environment|Safe drinking water violation %	|CSV	|https://www.sustainabledevelopment.report/reports/2019-us-cities-sustainable-development-report/
+|Job	|Job Opportunity	|Web scraping	|https://wallethub.com/edu/best-cities-for-jobs/2173 
+|Education 	|Education index	|Web scraping	|https://wallethub.com/edu/e/most-and-least-educated-cities/6656 
+|Safety|	Safety score|Web scraping	|https://wallethub.com/edu/safest-cities-in-america/41926 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skyrockets-21/Livable-Cities/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&copy; Thomas Tam
