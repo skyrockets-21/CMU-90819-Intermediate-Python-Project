@@ -5,6 +5,7 @@
 See projects in detail:
 [This Project's Repo](https://github.com/skyrockets-21/Livable-Cities) \
 [Back to my GitHub Homepage](https://skyrockets-21.github.io/) 
+[Go to my LinkedIn Page](https://www.linkedin.com/in/thomasyctam/) 
 
 ---
 
