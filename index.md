@@ -32,6 +32,7 @@ users’ decision-making.
 ### Jupyter Notebook [(Link)](https://github.com/skyrockets-21/Livable-Cities/blob/main/poo_py%20final%20visualization.ipynb)
 
 ### Python Libraries Used
+
 |#| Library Name| Usage|
 |--|--|--|
 |1 |Pandas |Data manipulation
@@ -45,6 +46,7 @@ users’ decision-making.
 
 
 ### Data Sources Used
+
 |Category |Attribute	|Source 	|URL|
 |--|--|--|--|
 |City	|Cities rank by population	|.xlsx 	|https://www2.census.gov/programs-surveys/popest/tables/2010-2019/cities/totals/SUB-IP-EST2019-ANNRNK.xlsx 
